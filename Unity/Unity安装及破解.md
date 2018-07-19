@@ -11,10 +11,10 @@ Unity安装及破解
 
 选择需要下载的版本
 
-！[image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_03.png)
+![image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_03.png)
 
 选择刚才下载的下载助手，右键安装。尽量安装在非系统盘。
-！[image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_04.png)
+![image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_04.png)
 ![image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_05.png)
 
 ## Unity破解
