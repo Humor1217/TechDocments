@@ -19,3 +19,20 @@ Unity安装及破解
 
 ## Unity破解
 
+去Unity圣典网站或者国外论坛
+http://www.ceeger.com/forum/read.php?tid=23396&fid=8
+
+https://forum.cgpersia.com/f13/unity-v4-x-x-v5-x-x-v2017-x-x-updates-win-mac-medicines-updated-regularly-99173/
+
+下载相应的破解补丁包程序，一定要选对补丁包
+
+![image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_06.png)
+
+下载后解压，选中右键以管理员身份运行
+
+![image](https://github.com/Humor1217/TechDocments/blob/master/ImageResources/unityinstallpic_07.png)
+
+点击Browse选择Unity安装目录内的Editor文件夹, 确定. 
+然后点击大按钮**PATCH**即可, 如果提示文件替换, 确认即可. 
+如果不行, 请务必删除**C:\ProgramData\Unity**文件夹后重装Unity重试!!!!!!!!!!!!!!!!!!!!!!
+
