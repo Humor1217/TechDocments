@@ -13,7 +13,7 @@ Git的安装和使用
 
 ## 设置Git配置  
 当安装完 Git 应该做的第一件事就是设置用户名称与邮件地址。打开`Git Bash`  
-![OpenGitbash](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/001.jpg)  
+![OpenGitbash](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/002.jpg)  
 
 ```
 $ git config --global user.name "John Doe"
