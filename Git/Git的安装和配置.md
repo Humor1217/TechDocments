@@ -6,6 +6,7 @@ Git的安装和使用
 2. [Git书籍](https://git-scm.com/book/en/v2)
 3. [Git-简单指南](http://rogerdudler.github.io/git-guide/index.html)
 4. [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+5. [教学视频《Git Tutorial for Beginners: Command-Line Fundamentals》](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
 ## Git安装
 [下载安装](https://gitforwindows.org/)Git  
@@ -16,6 +17,19 @@ Git的安装和使用
 ![OpenGitbash](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/002.jpg)  
 
 ```
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+$ git config --global user.name "Humor"
+$ git config --global user.email "humor.ylw@outlook.com"
 ```
+
+使用`git config --list`可以检查配置信息   
+![SetConfig](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/003.png)  
+
+## 需要帮助
+```
+$ git help <verb>
+或
+$ git <verb> --help
+```
+
+![neegHelp](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/004.png)  
+
