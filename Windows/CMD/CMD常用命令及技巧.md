@@ -19,3 +19,29 @@ cd desktop\hololens
 cd CMD
 ```
 ![cd relative path](https://github.com/Humor1217/TechDocments/blob/master/Windows/CMD/img/003.png)
+
+### 创建文件
+
+①创建空文件
+格式：type nul>+文件名.格式
+```
+type nul>helloWorld.cs
+```
+
+![creatnulfile](https://github.com/Humor1217/TechDocments/blob/master/Windows/CMD/img/004.png)
+
+### 删除文件
+格式：del <文件名.格式>
+```
+del test.txt
+```
+![delfile](https://github.com/Humor1217/TechDocments/blob/master/Windows/CMD/img/006.png)
+
+### 创建文件夹
+
+md +路径+文件夹名， md为MakeDirectory的缩写,在当前文件夹下创建新的文件夹，可直接`md <文件夹名>`
+```
+md C:\Users\Administrator\Desktop\Windows\UWP\Lumia
+```
+![creatfolder](https://github.com/Humor1217/TechDocments/blob/master/Windows/CMD/img/005.png)
+
