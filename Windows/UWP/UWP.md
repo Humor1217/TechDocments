@@ -12,3 +12,4 @@
   - Designers,Project Template,Emulators
 - ### Design Patterns
   - User Experience patterns,Navigation patterns,code structure
+[UWP 004 | What Is XAML?](https://www.youtube.com/watch?v=8lLJt0LkB3s&list=PLi2hbezQRVS0cPMeW3uDlUHnO_rPvJCV9&index=4)
