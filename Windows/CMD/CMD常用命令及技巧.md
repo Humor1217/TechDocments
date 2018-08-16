@@ -20,6 +20,15 @@ cd CMD
 ```
 ![cd relative path](https://github.com/Humor1217/TechDocments/blob/master/Windows/CMD/img/003.png)
 
+### 进入其他盘符  
+直接在指令地方输入盘符名+:,例如：  
+```
+C:\Users\Administrator>E:
+```
+
+
+
+
 ### 创建文件
 
 ①创建空文件
