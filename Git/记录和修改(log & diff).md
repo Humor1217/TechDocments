@@ -17,18 +17,22 @@
   ```
   $ git commit -m "<修改信息>"
   ```  
+  
   ![commit](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/402.png)
+ 
  
  查看修改记录：  
  ```
  $ git log
  ```
+ 
  ![changeLog](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/403.png)  
  
  ### 查看修改部分
- ```
+
+```
  $ git diff
- ···  
+ ```
  ![diff](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/404.png)
  
  添加所有文件：  
