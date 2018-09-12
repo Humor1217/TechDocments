@@ -36,6 +36,8 @@ UE4窗口组成：
   - You can open/edit Blueprints in C++
   - Blueprints and C++ play nice together
   
+  ![BluePrintFlow](https://github.com/HumorLogic/TechDocments/blob/master/UE4/Learning%20Log/Images/001.png)    \
+  
 #### 2.0 Creating Blueprints and Editor UI
 
 
