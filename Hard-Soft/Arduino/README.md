@@ -4,3 +4,5 @@
 
 [Reset Arduino via Web](https://create.arduino.cc/projecthub/iot_lover/reset-arduino-via-web-6b91de?ref=platform&ref_id=424_trending__beginner_tutorial&offset=0)
 
+[ESP8266 WiFi relay control](https://www.youtube.com/watch?v=3bFs_MZVFxw)
+
