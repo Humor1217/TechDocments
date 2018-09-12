@@ -6,3 +6,7 @@
 
 [ESP8266 WiFi relay control](https://www.youtube.com/watch?v=3bFs_MZVFxw)
 
+[Control Your Lights With Arduino And A Relay](https://www.hackster.io/user16726/control-your-lights-with-arduino-and-a-relay-3dcfc0)
+
+
+[Use Cortana and Arduino to Control RGB LED Strip and Lights](https://www.hackster.io/sieuwe/use-cortana-and-arduino-to-control-rgb-led-strip-and-lights-923658)
