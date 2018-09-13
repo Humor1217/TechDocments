@@ -10,3 +10,5 @@
 
 
 [Use Cortana and Arduino to Control RGB LED Strip and Lights](https://www.hackster.io/sieuwe/use-cortana-and-arduino-to-control-rgb-led-strip-and-lights-923658)
+
+[DIY Smart Switch - Part 1 how to use a relay](https://www.youtube.com/watch?v=5NxVmg8ZFEc)
