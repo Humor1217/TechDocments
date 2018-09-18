@@ -2,7 +2,9 @@
  在面向对象语言中，接口是一种引用类型，不包含数据但定义了行为作为方法。一个类想要实现一个接口，必须在该类中实现具体的方法。接口相对于继承更灵活，一个类
  只能继承一个类，却可以实现多个接口。
  
- ![difference]()
+ ![difference](https://github.com/HumorLogic/TechDocments/blob/master/C%23/Basic%20Concept/Type/Reference%20Types/Images/001.png)
+ 
+ ![difference2](https://github.com/HumorLogic/TechDocments/blob/master/C%23/Basic%20Concept/Type/Reference%20Types/Images/002.png)
  
  ## 示例：
  
