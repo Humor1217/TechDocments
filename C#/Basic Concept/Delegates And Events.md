@@ -1,6 +1,6 @@
-![示例]()
+![示例](https://github.com/HumorLogic/TechDocments/blob/master/C%23/Basic%20Concept/Images/delegate001.jpg)
 
-![示例]()
+![示例1](https://github.com/HumorLogic/TechDocments/blob/master/C%23/Basic%20Concept/Images/delegate002.png)
 
 ### Program Class
 ``` C#
