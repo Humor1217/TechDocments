@@ -14,3 +14,5 @@
 [DIY Smart Switch - Part 1 how to use a relay](https://www.youtube.com/watch?v=5NxVmg8ZFEc)
 
 [Add WiFi to Arduino UNO](https://www.hackster.io/jeffpar0721/add-wifi-to-arduino-uno-663b9e)
+
+[Cheap and Easy WiFi (IoT) Tutorial Part 1 - ESP8266 Setup/Intro](https://www.youtube.com/watch?v=qU76yWHeQuw)
