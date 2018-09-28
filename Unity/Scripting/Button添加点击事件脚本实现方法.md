@@ -9,11 +9,9 @@ using UnityEngine.UI;
 
 public class MyGameManager : MonoBehaviour {
 
-     public Button[] btnArray;
+        public Button[] btnArray;
 
-
-	// Use this for initialization
-	void Start () {
+      	void Start () {
         
         foreach (var btn in btnArray)
         {
