@@ -1,5 +1,7 @@
 ## 加载场景进度条制作
 
+### [参考教学：How to make a LOADING BAR in Unity ](https://www.youtube.com/watch?v=YMj2qPq9CP8)
+
 ### 1、新建LoadLevel类脚本
 
 ### 2、进度条背景及进度条
