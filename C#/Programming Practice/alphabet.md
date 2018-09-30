@@ -2,54 +2,21 @@
 
 ``` C#
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NewsAPI;
-using NewsAPI.Models;
-using NewsAPI.Constants;
-using System.Net;
 
 
-namespace ConsoleAppTest
-{
+
     class Program
     {
         static void Main(string[] args)
         {
-            //string str = "Humor";
-            //string str1 = "";
-
-            //for (int i = 0; i <str.Length; i+=2)
-            //{
-            //    Console.WriteLine(str[i]);
-            //    str1 += str[i];
-            //}
-            //Console.WriteLine(str1);
-
-            //Method("Humor");
-           // string[] ary = InputMethod();
-            OutPutMethod(InputMethod());
+          
+            string[] ary = InputMethod();
+            OutPutMethod(ary);
 
             Console.ReadLine();
         }
 
-        static void  Method(string str)
-        {
-            string str1="",str2 = "";
-            for (int i = 0; i <str.Length; i+=2)
-            {
-                str1 += str[i];
-            }
-
-            for (int j = 1; j < str.Length; j+=2)
-            {
-                str2 += str[j];
-            }
-            Console.WriteLine(str1 + "  " + str2);
-        }
-
+       
 
         //输入方法
         static string[] InputMethod()
@@ -100,6 +67,6 @@ namespace ConsoleAppTest
 
 
     }
-}
+
 
 ```
