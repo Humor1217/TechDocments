@@ -3,8 +3,6 @@
 ``` C#
 using System;
 
-
-
     class Program
     {
         static void Main(string[] args)
@@ -16,8 +14,7 @@ using System;
             Console.ReadLine();
         }
 
-       
-
+ 
         //输入方法
         static string[] InputMethod()
         {
@@ -64,7 +61,6 @@ using System;
 
             }
         }
-
 
     }
 
