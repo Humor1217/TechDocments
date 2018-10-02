@@ -31,3 +31,20 @@ Linux是一个开源操作系统;Nginx是一个小巧而高效的Linux下的Web�
 
 当出现 `“Opcache installed successfully, enjoy it!” `字样时，即表示安装成功。
 ![opcache](https://github.com/HumorLogic/TechDocments/blob/master/WebDev/WordPress/imgs/002.png)
+
+接着安装Memcached：
+```
+# ./addons.sh install memcached
+```  
+回车，选择2，回车，再回车。
+
+当出现 `“Memcached installed successfully, enjoy it!”` 字样时，即表示安装成功。
+
+此时，可以删除之前下载的lnmp1.5安装包，以节省空间。
+```
+# rm -rf /root/lnmp1.5.tar.gz
+```
+回车即可。
+![memcached]()
+
+接下来就可以添加域名安装WordPress了。
