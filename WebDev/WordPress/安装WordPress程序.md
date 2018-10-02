@@ -36,6 +36,19 @@
 https://www.linuxtechi.com/configure-chroot-sftp-in-linux/
 https://www.cnblogs.com/antarctican/p/3986523.html
 
+法连接到文件系统，请确认您的凭据。要执行请求的操作，WordPress需要访问您网页服务器的权限。 请输入您的FTP登录凭据以继续。 如果您忘记了您的登录凭据（如用户名、密码），请联系您的网站托管商。”上面啰嗦了这么多意思就是你的权限不够，不允许升级。
 
+2
+分析问题：出现这个提示是因为网站文件的所有者和网站文件夹的所有者不同导致的。仔细看了一下网站文件夹所有者和用户组是www，而网站文件所有者和所在用户组是root。
+
+3
+那么现在可以下手解决这个问题了。用Xshell连接到VPS上，输入
+
+chown -R www /home/wwwroot/网站文件夹
+
+把上面的root修改成www就解决了。
+```
+# chown -R www /home/wwwroot/humorlogic.com/
+```
 
 
