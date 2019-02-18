@@ -9,3 +9,7 @@
 
 
 https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infinite-/
+
+
+# 理念
+-  用青少年的想象力来解决社会实际问题
