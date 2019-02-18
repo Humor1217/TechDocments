@@ -12,6 +12,9 @@
 
 https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infinite-/
 
+### Some Cool Maker
+-  [Tapendra Mandal](https://www.youtube.com/user/tapendramandal/videos)
+
 
 # 理念
 -  用青少年的想象力来解决社会实际问题
