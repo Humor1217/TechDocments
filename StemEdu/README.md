@@ -15,3 +15,9 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 
 # 理念
 -  用青少年的想象力来解决社会实际问题
+
+
+
+
+## 教程
+-  [Mert Arduino](https://www.youtube.com/channel/UCAH7OfjndkAgtjkmJ6IQvEw)
