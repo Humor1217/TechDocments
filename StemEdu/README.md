@@ -19,6 +19,9 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 -  [Creativity Buzz](https://www.youtube.com/channel/UCaaKcUUrlKx1iLbLOASgzsQ)
 
 
+### Some HardWare Company
+-  [Meet Edison](https://www.meetedison.com)
+
 # 理念
 -  用青少年的想象力来解决社会实际问题
 
