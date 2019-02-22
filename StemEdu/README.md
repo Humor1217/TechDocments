@@ -1,3 +1,4 @@
+
 # About Edu Speech
 
 -  [TED关于创客的演讲](https://www.ted.com/playlists/509/things_to_do_to_make_steam_lea)
@@ -42,3 +43,8 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 
 ## 教程
 -  [Mert Arduino](https://www.youtube.com/channel/UCAH7OfjndkAgtjkmJ6IQvEw)
+
+
+
+## 资源网站
+-  [PDF下载](https://www.pdfdrive.com/)
