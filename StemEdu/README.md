@@ -26,6 +26,14 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 ### Some HardWare Company
 -  [Meet Edison](https://www.meetedison.com)
 
+
+### Some Events
+-  [Maker Faire](https://makerfaire.com/)
+
+
+### Some Media
+-  [Make杂志](https://makezine.com/)
+
 # 理念
 -  用青少年的想象力来解决社会实际问题
 
