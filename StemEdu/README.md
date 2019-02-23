@@ -23,6 +23,7 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 -  [Tapendra Mandal](https://www.youtube.com/user/tapendramandal/videos)
 -  [Creativity Buzz](https://www.youtube.com/channel/UCaaKcUUrlKx1iLbLOASgzsQ)
 -  [EvanAndKatelyn ](https://www.youtube.com/user/EvanAndKatelyn/featured)
+-  [HomeCraft](https://www.youtube.com/channel/UCTVj-ShnZ2wa0tRQZP19vTg)
 
 
 ### Some HardWare Company
