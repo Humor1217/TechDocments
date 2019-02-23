@@ -24,6 +24,7 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 -  [Creativity Buzz](https://www.youtube.com/channel/UCaaKcUUrlKx1iLbLOASgzsQ)
 -  [EvanAndKatelyn ](https://www.youtube.com/user/EvanAndKatelyn/featured)
 -  [HomeCraft](https://www.youtube.com/channel/UCTVj-ShnZ2wa0tRQZP19vTg)
+-  [NDA Hack](https://www.youtube.com/channel/UCO0--uVBE8kcIJJkvDJ83tA)
 
 
 ### Some HardWare Company
@@ -39,7 +40,6 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 
 # 理念
 -  用青少年的想象力来解决社会实际问题
-
 
 
 
