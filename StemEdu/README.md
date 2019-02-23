@@ -49,3 +49,7 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 
 ## 资源网站
 -  [PDF下载](https://www.pdfdrive.com/)
+
+
+## STEAM相关
+-  [Tools and Resources for STEAM Maker Education](https://www.instructables.com/id/Tools-and-Resources-for-STEAM-Maker-Education/)
