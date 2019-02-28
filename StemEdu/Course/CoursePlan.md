@@ -7,6 +7,9 @@
 >5.  跳舞机器人/智能洗尘机器人  4课时
 
 
+### Scratch游戏制作
+[贪吃蛇](https://www.youtube.com/watch?v=OphJmZbPzDk)
+[Minecraft](https://www.youtube.com/watch?v=MyxS7Jr2FDc&list=PL1RDytB_JUHEbsXjiL_2ceQc5pIrBl2pG&index=5)
 https://www.youtube.com/watch?v=dXibNe8b3RQ
 
 ### 智能避障小车相关资料
