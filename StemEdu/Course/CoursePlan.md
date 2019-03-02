@@ -5,6 +5,7 @@
 >3.  智能避障机器小车           3课时
 >4.  Arduino水果钢琴           3课时
 >5.  跳舞机器人/智能洗尘机器人  4课时
+>6.  停车场系统(Arduino Automated Parking Garage) 
 
 
 ### Scratch游戏制作
@@ -25,6 +26,10 @@ https://www.instructables.com/id/Simple-Humanoid-Walking-and-Dancing-Robot-Ardui
 
 ### 吸尘器机器人
 https://www.youtube.com/watch?v=0jNwF3EyFvc
+
+### 停车场系统  
+https://www.hackster.io/ashraf_minhaj/arduino-automated-parking-garage-86d078
+
 
 
 
