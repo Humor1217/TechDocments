@@ -8,6 +8,7 @@
 
 ### Some Websites
 -  [SparkFun](https://www.sparkfun.com/)
+-  [Adafruit](https://learn.adafruit.com/)
 -  [Instructables](https://www.instructables.com/)
 -  [Hackser IO](https://www.hackster.io/)
 -  [circuito.io](https://www.circuito.io/)
