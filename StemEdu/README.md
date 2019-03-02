@@ -17,6 +17,8 @@
 -  [Thingiverse](https://www.thingiverse.com/)
 -  [Fablab]
 -  [Arduino Project Hub](https://create.arduino.cc/projecthub)
+-  [TinyCircuits](https://tinycircuits.com/)
+-  [Quirky](https://quirky.com/)
 
 ### Some Insitution
 -  [CODE.ORG](https://code.org/)
