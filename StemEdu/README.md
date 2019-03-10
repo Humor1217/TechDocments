@@ -43,7 +43,7 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 
 
 ### Some HardWare Company
--  [Meet Edison](https://www.meetedison.com)
+-  [Meet Edison](https://meetedison.com/)
 
 
 ### Some Events
