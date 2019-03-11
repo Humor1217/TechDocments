@@ -75,3 +75,4 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 ## 其他网站
 -  [RobotMissions](http://www.robotmissions.org/)
 -  [Digital Media Academy](https://www.digitalmediaacademy.org/)
+-  [Compuscholar](https://www.compuscholar.com/)
