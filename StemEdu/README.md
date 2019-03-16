@@ -83,3 +83,6 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 -  [Compuscholar](https://www.compuscholar.com/)
 -  [Libraries Ready To Code](https://librariesreadytocode.org/)
 -  [IEEE](https://www.ieee.org/)
+
+## 众筹网站
+-  [Kickstarter](https://www.kickstarter.com/?ref=nav)
