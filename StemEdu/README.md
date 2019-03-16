@@ -32,6 +32,7 @@
 -  [TwoBitCircus.org](http://twobitcircus.org/)
 -  [Little Bits](https://littlebits.com/)
 -  [App Inventor](http://www.appinventor.org/)
+-  [APP Inventor MIT](http://appinventor.mit.edu/explore/)
 
 
 https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infinite-/
