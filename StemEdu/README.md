@@ -47,6 +47,7 @@ https://www.instructables.com/id/Circuit-Learn-NANO-One-PCB-Easy-to-Learn-Infini
 -  [NDA Hack](https://www.youtube.com/channel/UCO0--uVBE8kcIJJkvDJ83tA)
 -  [Mert Arduino](https://www.youtube.com/channel/UCAH7OfjndkAgtjkmJ6IQvEw)
 -  [The Wrench](https://www.youtube.com/channel/UC92-zm0B8vLq-mtJtSHnrJQ/videos)
+-  [the Hacksmith](https://www.youtube.com/user/MstrJames/videos)
 
 
 ### Some HardWare Company
