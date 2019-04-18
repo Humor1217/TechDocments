@@ -27,6 +27,7 @@
 -  [SA4](http://s4a.cat/)
 
 ### Some Insitution
+-  [RAFT](https://raft.net/)
 -  [CODE.ORG](https://code.org/)
 -  [CSUnplugged](https://csunplugged.org/en/)
 -  [TwoBitCircus.org](http://twobitcircus.org/)
