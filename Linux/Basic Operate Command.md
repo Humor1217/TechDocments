@@ -1,6 +1,6 @@
 # Linux环境下基本操作命令
 
-### 进入vm tool 共享文件夹
+#### 进入vm tool 共享文件夹
 ```
 $ cd /mnt/hgfs
 ```
