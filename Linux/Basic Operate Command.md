@@ -5,7 +5,9 @@
 ### Linux目录结构
 ![linuxDirectory](https://github.com/HumorLogic/TechDocments/blob/master/Linux/images/flowchart-LinuxDirectoryStructure.png)  
 
-### Linux常用命令
+## Linux常用命令
+
+### 用户管理
 
 #### 1.创建用户:
 ``` 
@@ -21,7 +23,23 @@ sudo passwd [username]
 ``` 
 sudo userdel [username]
 ```
-加上-r可以删除用户目录文件
+加上-r可以删除用户目录文件  
+#### 4.切换用户：
+``` 
+su [username]
+```
+
+#### 5.创建、删除组：
+``` 
+groupadd [group name]  
+groupdel [group name]
+```
+#### 6.创建用户时直接添加用指定组：
+``` 
+useradd -g [group name] [user name]  
+```
+
+
 
 
 
