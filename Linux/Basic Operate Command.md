@@ -26,17 +26,17 @@ sudo userdel [username]
 加上-r可以删除用户目录文件  
 #### 4.切换用户：
 ``` 
-su [username]
+sudo su [username]
 ```
 
 #### 5.创建、删除组：
 ``` 
-groupadd [group name]  
-groupdel [group name]
+sudo groupadd [group name]  
+sudo groupdel [group name]
 ```
 #### 6.创建用户时直接添加用指定组：
 ``` 
-useradd -g [group name] [user name]  
+sudo useradd -g [group name] [user name]  
 ```
 
 
