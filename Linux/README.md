@@ -26,3 +26,9 @@ ps -e |grep ssh
 - FileZilla
 - XFTP
 
+
+
+#### Windows系统安装ssh在终端连接linux  
+```  
+ssh <username>@<IP address>
+```  
