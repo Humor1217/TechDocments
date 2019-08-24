@@ -6,6 +6,8 @@
 ![linuxDirectory](https://github.com/HumorLogic/TechDocments/blob/master/Linux/images/flowchart-LinuxDirectoryStructure.png)  
 
 ## Linux常用命令  
+
+### 系统运行级别
 Linux运行级别有多个运行级别1234560S,  
 0:系统停机状态，系统默认运行级别不能设置为0，否则不能正常启动，机器关闭。  
 1:单用户工作状态，root权限，用于系统维护，禁止远程登陆，就像Windows下的安全模式登录。  
@@ -34,6 +36,14 @@ sudo systemctl set-default multi-user.target
 sudo systemctl isolate multi-user.target
 ```  
 
+
+### 帮助指令  
+对某个指令不熟悉时，我们可以使用 Linux 提供的帮助指令来了解这个指令的使用方法。  
+
+#### 1.man   
+``` 
+man [command]
+```
 
 
 
