@@ -44,9 +44,37 @@ sudo systemctl isolate multi-user.target
 ``` 
 man [command]
 ```  
-#### 1.help查询指令的含义用法   
+#### 2.help查询指令的含义用法   
 ``` 
 help [command]
+```
+
+
+### 文件目录类指令  
+
+#### 1.pwd显示当前shell所在的绝对路径（print name of current/working directory）
+``` 
+pwd
+```  
+#### 2.ls列出目录内容（ list directory contents）：  
+
+``` 
+ls [option] [file]
+```  
+
+#### 3.cd改变目录指令（Change the shell working directory.）：   
+用法：  
+``` 
+cd [directory]
+``` 
+/:代表根目录
+表示返回上一级目录：  
+``` 
+cd ..
+```  
+表示返回家目录：  
+``` 
+cd ~
 ```
 
 
