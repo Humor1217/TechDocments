@@ -15,6 +15,10 @@ Linux运行级别有多个运行级别1234560S,
 5:X11控制台，登陆后进入图形GUI模式，XWindow系统。  
 6:系统正常关闭并重启，默认运行级别不能设为6，否则不能正常启动。运行init6机器就会重启。
 
+Ubuntu系统用systemd targets替代了runlevel,对应关系：  
+ ![targets](https://github.com/HumorLogic/TechDocments/blob/master/Linux/images/targets.png)  
+ 
+
 #### 1.查看当前系统运行级别:
 ``` 
 runlevel
@@ -22,8 +26,16 @@ runlevel
 
 #### 2.切换系统运行级别:
 ``` 
-init [level number]
-```
+sudo systemctl enable multi-user.target
+sudo systemctl set-default multi-user.target
+```  
+关闭某项target：  
+``` 
+sudo systemctl isolate multi-user.target
+```  
+
+
+
 
 
 
