@@ -43,6 +43,10 @@ sudo systemctl isolate multi-user.target
 #### 1.man   
 ``` 
 man [command]
+```  
+#### 1.help查询指令的含义用法   
+``` 
+help [command]
 ```
 
 
