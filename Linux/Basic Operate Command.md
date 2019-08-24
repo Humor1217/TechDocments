@@ -20,6 +20,11 @@ Linux运行级别有多个运行级别1234560S,
 runlevel
 ```
 
+#### 2.切换系统运行级别:
+``` 
+init [level number]
+```
+
 
 
 
