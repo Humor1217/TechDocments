@@ -126,6 +126,21 @@ cp 1.txt test/
 ``` 
  cp -r test1 test/
 ```
+\cp表示强制覆盖  
+
+#### 7.rm删除文件或目录指令（ remove files or directories）：  
+用法：  
+``` 
+rm [OPTION] file|dir
+``` 
+示例①删除hellp.txt文件：
+``` 
+rm hello.txt
+```    
+示例②，强制删除test1文件夹：
+``` 
+ rm -rf test1/
+```
 
 
 
