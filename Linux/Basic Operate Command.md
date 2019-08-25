@@ -142,6 +142,59 @@ rm hello.txt
  rm -rf test1/
 ```
 
+#### 8.mv移动文件或者重命名文件名指令（move (rename) files）：  
+语法：  
+``` 
+mv [OPTION] SOURCE DEST
+``` 
+示例①将humor.txt移动到newfolder文件夹中：
+``` 
+mv humor.txt newfolder/
+```    
+示例②，将aaa.txt重命名为humor.txt：
+``` 
+ mv aaa.txt humor.txt
+```  
+
+#### 9.cat以只读的方式查看文件（concatenate files and print on the standard output）：  
+语法：  
+``` 
+cat [OPTION] [FILE]
+``` 
+示例①查看111.txt内容：
+``` 
+cat -111.txt
+```    
+示例②，全屏显示行数查看111.txt内容：
+``` 
+ cat -n 111.txt | more
+```
+
+#### 10.more用于CRT查看的文件筛选器指令 ：  
+语法：  
+``` 
+ more [options] file
+``` 
+示例①查看111.txt内容：
+``` 
+more -111.txt
+```    
+显示内容较多Enter键逐行滚动看，space键逐页翻看。  Ctrl+B往上翻，Ctrl+F往下翻。  
+
+#### 11.less分页加载查看文件内容，使用于大文件查看（opposite of more）：  
+语法：  
+``` 
+less [options] file
+``` 
+示例①查看111.txt内容：
+``` 
+less -111.txt
+```    
+
+ 
+ 
+
+
 
 
 
