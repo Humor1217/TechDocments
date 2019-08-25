@@ -75,7 +75,63 @@ cd ..
 表示返回家目录：  
 ``` 
 cd ~
+```  
+
+#### 4.mkdir创建目录指令（make directories）：  
+用法：  
+``` 
+mkdir [option] [directory]
+``` 
+示例①：创建一个/home/newFolder目录  
+``` 
+mkdir /home/newFolder
+```   
+
+示例②：创建多级父目录/home/animal/dog目录(animal目录原来不存在)  
+``` 
+mkdir -p /home/animal/dog
+```     
+
+#### 5.rmdir删除指定空目录指令（remove empty directories）：  
+用法：  
+``` 
+rmdir [option] [directory]
+``` 
+示例①：删除/home/emptyFolder目录  
+``` 
+rmdir /home/emptyFolder
+```  
+
+#### 5.touch改变时间戳或者创建空文件指令（change file timestamps）：  
+用法：  
+``` 
+touch [option] [file]
+``` 
+示例①：
+``` 
+touch helloworld.txt
 ```
+可以一次性创建多个文件  
+
+#### 6.cp复制文件或者目录指令（ copy files and directories）：  
+用法：  
+``` 
+cp [OPTION] SOURCE DEST
+``` 
+示例①：
+``` 
+cp 1.txt test/
+```  
+示例②，递归将test1文件夹和里面的问价拷贝到test文件夹内：
+``` 
+ cp -r test1 test/
+```
+
+
+
+
+
+
 
 
 
