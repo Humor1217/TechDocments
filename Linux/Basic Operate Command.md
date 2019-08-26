@@ -254,7 +254,35 @@ tail /etc/profile
 ``` 
 tail -f mydate.txt
 ```  
-Ctrl+C退出追踪  
+Ctrl+C退出追踪   
+
+#### 17.ln在文件之间创建链接指令（make links between files）：  
+语法：  
+``` 
+ln [OPTION] TARGET LINK_NAME
+``` 
+示例①创建一个到/root目录的链接文件：
+``` 
+ln -s /root linkToRoot
+```     
+#### 18.history显示历史操作指令（make links between files）：  
+语法：  
+``` 
+history [Option]
+``` 
+示例①显示历史使用过的指令：
+``` 
+history
+```     
+示例②显示历史倒数10个使用过的指令：
+``` 
+history 10
+```   
+示例③直接执行编号为180的指令：
+``` 
+！180
+``` 
+
 
 
 
