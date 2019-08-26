@@ -191,6 +191,31 @@ less [options] file
 less -111.txt
 ```    
 
+#### 12.>表示覆盖原文件内容（输出重定向）指令（redirect output to a disk file）：  
+示例①把当前目录内容覆盖/创建 到a.txt：
+``` 
+ls -l > a.txt
+```  
+把a.txt文件的内容直接覆盖b.txt
+``` 
+cat a.txt > b.txt
+```  
+
+
+#### 13.>>表示将内容追加到原文件内容后面指令（redirect output to a disk file）：  
+示例①把当前目录内容添加到a.txt文件后面：
+``` 
+ls -l >> a.txt
+```     
+将“hello world”添加到hello.txt
+``` 
+echo "hello world" >> hello.txt
+```    
+
+
+
+
+
  
  
 
