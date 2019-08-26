@@ -210,7 +210,51 @@ ls -l >> a.txt
 将“hello world”添加到hello.txt
 ``` 
 echo "hello world" >> hello.txt
-```    
+```      
+
+#### 14.echo表示输出内容到控制台指令（display a line of text）：  
+语法：  
+``` 
+echo [OPTION] [STRING]
+``` 
+示例①输出当前环境的变量：
+``` 
+echo $PATH
+```     
+示例②将“hello world”输出到控制台：
+``` 
+echo "hello world"
+```  
+
+#### 15.head显示文件前面部分内容（output the first part of files）：  
+语法：  
+``` 
+head [OPTION] [FILE]
+``` 
+示例①默认是显示该文件的前十行：
+``` 
+head /etc/profile
+```     
+示例②文件的前5行：
+``` 
+head -n 5 /etc/profile
+```  
+
+
+#### 16.tail显示s输出文件后面部分内容（output the last part of files）：  
+语法：  
+``` 
+tail [OPTION] [FILE]
+``` 
+示例①默认是显示该文件的最后十行：
+``` 
+tail /etc/profile
+```     
+示例②实时追踪mydate.txt文件变化：
+``` 
+tail -f mydate.txt
+```  
+Ctrl+C退出追踪  
 
 
 
