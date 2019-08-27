@@ -60,7 +60,12 @@ pwd
 
 ``` 
 ls [option] [file]
-```  
+```   
+示例①：显示/home目录下的文件并且文件大小以单位显示：  
+``` 
+ls -lh /home
+```   
+ 
 
 #### 3.cd改变目录指令（Change the shell working directory.）：   
 用法：  
