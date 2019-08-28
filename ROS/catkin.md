@@ -33,7 +33,8 @@ catkin_make 指令用于在src目录中构建包。在构建软件包后，我�
 ```
 $ tree -L 1
 ```  
-![tree](https://github.com/HumorLogic/techDocuments/blob/master/ROS/images/tree.png)
+![tree](https://github.com/HumorLogic/techDocuments/blob/master/ROS/images/tree.png)  
+
 没安装tree工具的可以通过下面的指令进行安装： 
 ```
 $ sudo apt install tree
