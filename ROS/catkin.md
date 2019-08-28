@@ -40,6 +40,13 @@ $ tree -L 1
 $ sudo apt install tree
 ```   
 
+### 创建一个ROS package包  
+
+在src目录下创建按test1包：
+```
+$ cd ~/catkin_ws/src
+$ catkin_create_pkg test1
+```   
 
 
 
