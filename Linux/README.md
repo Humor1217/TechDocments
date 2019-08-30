@@ -31,4 +31,8 @@ ps -e |grep ssh
 #### Windows系统安装ssh在终端连接linux  
 ```  
 ssh <username>@<IP address>
-```  
+```   
+修改端口连接：
+```
+ssh -p <port> <username>@<IP address>
+```
