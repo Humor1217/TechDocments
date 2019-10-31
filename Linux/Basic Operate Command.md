@@ -326,5 +326,19 @@ sudo groupdel [group name]
 ```
 #### 6.创建用户时直接添加用指定组：
 ``` 
-sudo useradd -g [group name] [user name]  
+sudo useradd -g [group name] [user name]    
 ```
+  
+  
+# 编译
+
+示例： 
+```
+gcc hello.c -o hello
+```  
+
+运行：
+```
+./hello
+```
+
