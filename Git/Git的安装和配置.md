@@ -17,8 +17,8 @@ Git的安装和使用
 ![OpenGitbash](https://github.com/Humor1217/TechDocments/blob/master/Git/imgaes/002.jpg)  
 
 ```
-$ git config --global user.name "Humor"
-$ git config --global user.email "humor.ylw@outlook.com"
+$ git config --global user.name "HumorLigx"
+$ git config --global user.email "HumorLogic@outlook.com"
 ```
 
 使用`git config --list`可以检查配置信息   
